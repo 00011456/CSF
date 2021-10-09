@@ -1,1 +1,1 @@
-# Computer Science Fundamentals - CSF
+# CSF - Computer Science Fundamentals 
